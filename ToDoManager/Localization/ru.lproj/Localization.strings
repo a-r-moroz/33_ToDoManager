@@ -1,0 +1,31 @@
+/* 
+  Localization.strings
+  33_ToDoManager
+
+  Created by Andrew Moroz on 9.06.22.
+  
+*/
+
+// Settings section
+"settings.profile" = "Профиль";
+"settings.notifications" = "Нотификации";
+"settings.language" = "Язык";
+"settings.title" = "Настройки";
+
+// Language settings section
+"choose.language" = "Выберите язык";
+
+// Create task section
+"add.header" = "Название задачи";
+"add.body" = "Текст задачи";
+"add.add" = "Добавить";
+"add.date" = "Notification date";
+
+// Tasks section
+"tasks.title" = "Задачи";
+
+// editTask section
+"edit.header" = "Название задачи";
+"edit.body" = "Текст задачи";
+"edit.date" = "Время и дата напоминания";
+"edit.save" = "Cохранить";
